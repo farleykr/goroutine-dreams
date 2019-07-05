@@ -1,0 +1,3 @@
+[submodule "themes/goroutine-dreams-theme"]
+	path = themes/goroutine-dreams-theme
+	url = https://github.com/farleykr/goroutine-dreams-theme.git
